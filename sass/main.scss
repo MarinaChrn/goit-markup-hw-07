@@ -1,0 +1,18 @@
+@import './base/reset';
+
+@import './components/body';
+@import './components/container';
+@import './components/section';
+
+@import './utils/vars';
+@import './utils/visually-hidden';
+@import './utils/mixins';
+
+@import './header-footer/header';
+@import './header-footer/footer';
+
+@import './layouts-main/hero';
+@import './layouts-main/benefits';
+@import './layouts-main/work';
+@import './layouts-main/team';
+@import './layouts-main/clients';
