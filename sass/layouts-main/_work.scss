@@ -3,26 +3,26 @@
     padding-bottom: 94px;
 }
 
-.work-container {
+.work__container {
     text-align: center;
 
 }
 
-.work-title {
+.work__title {
     @include font(36px, 700, calc(42/36), null);
     margin-bottom: 50px;
 }
 
-.work-list {
+.process {
     display: flex;
     gap: 30px;
 }
 
-.work-list-item {
+.process__item {
     position: relative;
 }
 
-.work-list-about {
+.process__about {
     @include font(null, 700, calc(16/14), 0.03em);
     text-align: center;
     text-transform: uppercase;

@@ -10,14 +10,7 @@
 }
 
 .logo-web {
-    font-family: 'Raleway', 'sans-serif';
-    @include font(26px, 700, 1.2, null);
-    color: var(--accent-color);
     margin-right: 93px;
-}
-
-.logo-studio {
-    color: var(--black-color);
 }
 
 .header-nav {
